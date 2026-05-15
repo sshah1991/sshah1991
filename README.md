@@ -1,18 +1,28 @@
 # Hi, I'm Sumeet! 👋
 
-QA Lead with 10 years of experience in manual testing, currently specializing in SDET roles with a focus on modern automation ecosystems.
+**QA Lead | SDET Architect | Specialist in Playwright & Modern Testing Ecosystems**
 
-### 🛠️ My Tech Stack
-- **Languages:** JavaScript, TypeScript, Java
-- **Automation:** Playwright, Selenium
-- **Tools:** Jenkins, Git, API Testing (Rest-Assured/Playwright)
+A results-driven Quality Assurance Leader with over a decade of experience. I specialize in architecting scalable automation frameworks and am currently spearheading the integration of AI-driven strategies to evolve traditional testing into intelligent quality engineering.
 
-### 🚀 Recent Projects
-- **[OrangeHrm-hybrid-framework](https://github.com/sshah1991/OrangeHrm-hybrid-framework):** A scalable automation suite using Playwright.
-- **[Nannu Kannadiga](your-link-here):** A web-based platform for learning Kannada.
+### 🛠️ Technical Ecosystem
+- **Languages:** TypeScript, JavaScript, Java
+- **Automation Frameworks:** Playwright (Advanced), Selenium
+- **Methodology:** Page Object Model (POM), Hybrid Frameworks, API Automation
+- **DevOps:** CI/CD Pipeline Integration, Jenkins, Git
 
-### 🌱 Currently Learning
-- Advanced CI/CD pipelines and Cloud-based testing environments.
+### 🤖 Applied AI & Innovation (Active Focus)
+- **AI-Driven Automation:** Exploring GenAI and AI Agents to enhance test coverage and architect self-healing script capabilities.
+- **Development Productivity:** Utilizing **Claude** and **GitHub Copilot** to accelerate framework design, code refactoring, and quality governance.
+
+### 📈 Enterprise Focus
+- **High-Pressure Delivery:** Optimizing Playwright suites to handle rapid delta releases and regression cycles in enterprise environments.
+- **Quality Leadership:** Mentoring engineering teams and establishing robust quality gates within CI/CD pipelines.
+
+### 🚀 Featured Repositories
+- **[restful-booker-api-automation](https://github.com/sshah1991/restful-booker-api-automation):** Advanced API testing suite using TypeScript for comprehensive service validation.
+- **[OrangeHrm-hybrid-framework](https://github.com/sshah1991/OrangeHrm-hybrid-framework):** A scalable, high-performance hybrid UI automation framework.
+
+---
 
 ### 🚲 Beyond the Code
-When I'm not breaking software or building frameworks, you'll find me on long-distance motorcycle tours or experimenting with new recipes in the kitchen.
+When I'm not architecting test suites, you'll find me on long-distance motorcycle tours or experimenting with new recipes.
