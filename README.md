@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sumeet! 👋
 
-<!--
-**sshah1991/sshah1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Lead with 10 years of experience in manual testing, currently specializing in SDET roles with a focus on modern automation ecosystems.
 
-Here are some ideas to get you started:
+### 🛠️ My Tech Stack
+- **Languages:** JavaScript, TypeScript, Java
+- **Automation:** Playwright, Selenium
+- **Tools:** Jenkins, Git, API Testing (Rest-Assured/Playwright)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Recent Projects
+- **[OrangeHrm-hybrid-framework](https://github.com/sshah1991/OrangeHrm-hybrid-framework):** A scalable automation suite using Playwright.
+- **[Nannu Kannadiga](your-link-here):** A web-based platform for learning Kannada.
+
+### 🌱 Currently Learning
+- Advanced CI/CD pipelines and Cloud-based testing environments.
+
+### 🚲 Beyond the Code
+When I'm not breaking software or building frameworks, you'll find me on long-distance motorcycle tours or experimenting with new recipes in the kitchen.
