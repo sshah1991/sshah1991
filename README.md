@@ -1,6 +1,6 @@
 # Hi, I'm Sumeet 👋
 
-**Staff / Lead Quality Engineer | SDET | Playwright & Agentic QA Architect**
+** Quality Engineer | SDET | Playwright & Agentic QA Architect**
 
 A results-driven Quality Assurance Leader with over a decade of experience architecting resilient automation frameworks, establishing enterprise quality gates, and leading release operations. Currently pioneering the integration of agentic AI pipelines and modern tooling to evolve automated testing into autonomous quality engineering.
 
