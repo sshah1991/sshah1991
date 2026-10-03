@@ -1,6 +1,6 @@
 # Hi, I'm Sumeet 👋
 
-** Quality Engineer | SDET | Playwright & Agentic QA Architect**
+**Quality Engineer | SDET | Playwright & Agentic QA Architect**
 
 A results-driven Quality Assurance Leader with over a decade of experience architecting resilient automation frameworks, establishing enterprise quality gates, and leading release operations. Currently pioneering the integration of agentic AI pipelines and modern tooling to evolve automated testing into autonomous quality engineering.
 
@@ -21,6 +21,14 @@ A results-driven Quality Assurance Leader with over a decade of experience archi
 - **Agentic QA Workflows:** Designing autonomous test pipelines, custom CLI skills, and self-correcting test routines.
 - **LLM-Augmented Productivity:** Leveraging Claude Code and GitHub Copilot for rapid test generation, edge-case synthesis, and architectural refactoring.
 - **Intelligent Quality Gates:** Integrating AI triage to accelerate delta-release regression cycles and root-cause analysis (RCA).
+
+---
+
+### 📜 Certifications & Continuous Learning
+
+- 🏅 **Playwright JS/TS Automation Testing from Scratch & Framework** – *Rahul Shetty Academy*
+- 🤖 **Learn AI Tools & Build AI Agents for Testing & QA Automation** – *Hands-on Agentic QA & LLM Workflows*
+- 📊 **The Complete Agile & Scrum Project Management Course** – *Enterprise Agile Delivery & Sprint Governance*
 
 ---
 
